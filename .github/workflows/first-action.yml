@@ -1,7 +1,7 @@
 name: first_action
 on: workflow_dispatch
 jobs:
-  container-test-job:
+  first-job:
     runs-on: ubuntu-latest
     name: My first job
     steps:
